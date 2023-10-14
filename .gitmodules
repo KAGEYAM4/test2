@@ -1,0 +1,3 @@
+[submodule "thumbfast"]
+	path = thumbfast
+	url = https://github.com/KAGEYAM4/thumbfast.git
